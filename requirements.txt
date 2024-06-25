@@ -17,6 +17,8 @@ click==8.1.7
 colorama==0.4.6
 coloredlogs==15.0.1
 comm==0.2.2
+contourpy==1.2.1
+cycler==0.12.1
 dataclasses-json==0.6.7
 debugpy==1.8.1
 decorator==5.1.1
@@ -29,6 +31,7 @@ fastapi==0.111.0
 fastapi-cli==0.0.4
 filelock==3.15.1
 flatbuffers==24.3.25
+fonttools==4.53.0
 frozenlist==1.4.1
 fsspec==2024.6.0
 google-auth==2.30.0
@@ -52,6 +55,7 @@ jsonpatch==1.33
 jsonpointer==3.0.0
 jupyter_client==8.6.2
 jupyter_core==5.7.2
+kiwisolver==1.4.5
 kubernetes==30.1.0
 langchain==0.2.5
 langchain-chroma==0.1.1
@@ -59,10 +63,12 @@ langchain-community==0.2.5
 langchain-core==0.2.7
 langchain-openai==0.1.8
 langchain-text-splitters==0.2.1
+langgraph==0.1.1
 langsmith==0.1.77
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 marshmallow==3.21.3
+matplotlib==3.9.0
 matplotlib-inline==0.1.7
 mdurl==0.1.2
 mmh3==4.1.0
@@ -89,6 +95,7 @@ orjson==3.10.5
 overrides==7.7.0
 packaging==24.1
 parso==0.8.4
+pillow==10.3.0
 platformdirs==4.2.2
 posthog==3.5.0
 prompt_toolkit==3.0.47
@@ -100,6 +107,7 @@ pyasn1_modules==0.4.0
 pydantic==2.7.4
 pydantic_core==2.18.4
 Pygments==2.18.0
+pyparsing==3.1.2
 pypdf==4.2.0
 PyPika==0.48.9
 pyproject_hooks==1.1.0
